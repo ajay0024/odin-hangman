@@ -1,0 +1,2 @@
+o:	Game
+:@secret_wordI"shirts:ET:@game_overF:@remaining_turnsi:@chosen_characters[I"s;TI"t;T:@current_result[I"s;TI"_;T@@I"t;TI"s;T
